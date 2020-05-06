@@ -127,8 +127,10 @@ html{
 }
 .global__Grid {
   display: grid;
-  margin: 0 auto;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
   text-align: center;
+  grid
 }
 
 .nav__Bar{
@@ -201,4 +203,34 @@ html{
   background-position: left;
   background-repeat: no-repeat;
   background-size: 30px 20px;
+}
+
+.first__Grid {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: auto;
+  background-color: #c7372a;
+}
+
+.first__Grid >div:nth-child(odd) {
+  background-color: #bc3428;
+}
+
+.author__Face{
+  width: 75px;
+  height: 75px;
+  border: solid white 5px;
+  border-radius: 15px;
+}
+
+.in__Grid {
+  border-bottom: 1px black solid;
+  height: 100vh;
+  display: inline-grid;
+  grid-template-columns: 1;
+  grid-template-rows: auto;
+}
+
+.in__Grid div {
+  align-self: center;
 }
