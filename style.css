@@ -205,7 +205,18 @@ html{
   background-size: 30px 20px;
 }
 
+.front__Title {
+  background: white;
+  font-size: 40px;
+  line-height: 40px;
+  width: 17rem;
+  padding:1rem;
+  position: absolute;
+  margin: 10% 45%;
+}
+
 .first__Grid {
+  padding-top: 16rem;
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-template-rows: auto;
@@ -225,12 +236,89 @@ html{
 
 .in__Grid {
   border-bottom: 1px black solid;
+
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 4;
   height: 100vh;
-  display: inline-grid;
-  grid-template-columns: 1;
-  grid-template-rows: auto;
-}
+  text-align: left;
+  }
 
 .in__Grid div {
-  align-self: center;
+}
+
+.in__One {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 4rem;
+}
+
+.in__Two {
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 4rem;
+}
+
+.in__Three {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 4rem;
+}
+
+.in__Fourt {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 3rem;
+}
+
+.author1 {
+margin-left: 2rem;
+text-decoration: none;
+font-family: "Nunito", sans-serif;
+font-weight: 700;
+color: white;
+}
+
+.wrote {
+font-family: "Nunito", sans-serif;
+font-style: italic;
+font-size: 15px;
+color: white;
+margin-left: 0.5rem;
+}
+
+.article__Title {
+  font-family: "Nunito",sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+
+.comments1 {
+  margin-top: 1rem;
+
+}
+.comments1 a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Nunito",sans-serif;
+  display: inline-flex;
+}
+
+.comments1 p {
+  margin-left: 1rem;
+}
+
+.options1 {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Nunito",sans-serif;
+  display: inline-flex;
+  margin-left:1rem;
+}
+
+.second__Separator {
+
 }
