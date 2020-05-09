@@ -230,6 +230,7 @@ background-size: auto;
   grid-template-columns: repeat(2,1fr);
   grid-template-rows: 1fr auto auto;
   background-color: #878383;
+  margin-top: 2em;
 }
 
 .first__Latest >div:nth-child(odd) {
@@ -248,6 +249,7 @@ background-size: auto;
   display: inline-flex;
   align-items: center;
   margin-left: 4rem;
+  margin-top: 3em;
   justify-content: baseline
 }
 
