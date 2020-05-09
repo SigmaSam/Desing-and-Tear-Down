@@ -572,3 +572,161 @@ text-align: left;
 .add__Cat {
   margin: 0 auto;
 }
+
+.person_week {
+  margin: 4em;
+  text-align: left;
+  font-size: 19px;
+}
+
+.person_week p {
+  margin: 2em ;
+}
+
+.square1{
+  margin-right: 2em;
+  float: left;
+  width: 130px;
+  height: 130px;
+  border: solid white 5px;
+  border-radius: 15px;
+  background: black;
+  transform: rotate(340deg);
+  transform-origin: bottom left;
+}
+
+.divisor15 {
+  font-family: "Nunito", sans-serif;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  background: #B7B5B5;
+  border-radius: 15px;
+  width: 864px;
+}
+
+.divisor15 > * {
+  padding: 1em;
+}
+
+.divisor151 {
+  font-size: 3em;
+}
+
+.divisor151 a {
+  color: white;
+}
+
+.divisor152 {
+  font-size: 1.5em;
+  color: white; 
+}
+
+.imgdiv153 {
+  width: 300px;
+}
+
+.divisor154 {
+  height: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#div154 {
+  width: 120px;
+  padding-left: 1em;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.divisor154 input {
+  width: 15%;
+  background-color: white;
+  border: none;
+  border-radius: 5px 0 0 5px;
+}
+
+.divisor154 button {
+  width: 10%;
+  border-left: 1px solid gray;
+  padding-left: 0;
+  background-color: white;
+  border: none;
+  border-radius: 0 5px 5px 0;
+}
+
+.divisor155 {
+}
+
+.divisor16{
+  background-color: white;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divisor16 > * {
+  color: black;
+}
+
+.footer {
+ color: white;
+ width: 100%;
+ height: 600px;
+ background: #B7B5B5;
+ font-family: 'Merriweather Sans', sans-serif;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.footer1 {
+  padding: 3em 0 2em 0;
+}
+
+.footer2{
+  width: 80%;
+}
+
+.footer21 {
+  max-width: 95%;
+  text-align: center;
+  list-style-type: disc;
+}
+
+.footer2 li {
+  display: inline-block;
+  padding: 1em 1em;
+}
+
+.footer3 {
+  padding: 2em 0 2em 0;
+  font-size: 13px;
+}
+
+.footer32 {
+  padding: 0.5em;
+}
+
+.footer33 {
+  height: 30%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer33 > * {
+  padding: 0 0.6em;
+}
