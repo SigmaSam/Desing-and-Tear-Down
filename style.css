@@ -205,15 +205,14 @@ html {
   border-radius: 10px;
   color: grey;
   font-family: "Nunito", sans-serif;
-  font-weight: 700;
   font-size: 20px;
+  font-weight: 700;
   height: 56px;
   width: 350px;
 }
 
 .front__Title {
   background: white;
-  float: center;
   font-size: 40px;
   line-height: 40px;
   margin: 1% 40%;
