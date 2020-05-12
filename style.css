@@ -234,7 +234,7 @@ html {
 .first__Latest {
   background-color: #878383;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat (2, 1fr);
   grid-template-rows: 1fr auto auto;
   margin-top: 2em;
 }
