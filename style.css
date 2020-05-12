@@ -148,8 +148,8 @@ html {
 
 .logo {
   height: 70px;
-  margin-top: 15%;
   margin-left: 5%;
+  margin-top: 15%;
   width: 193px;
 }
 
@@ -167,28 +167,28 @@ html {
 
 .buttom__1:hover {
   background-color: #757575;
-  border-radius: 10px;
   border: none;
+  border-radius: 10px;
   cursor: pointer;
 }
 
 .buttom__2 {
+  align-items: center;
+  background-color: #878383;
+  background-repeat: no-repeat;
+  background-size: 30px 30px;
+  background-position: right;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  display: flex;
   font-family: "Nunito", sans-serif;
   font-weight: 700;
-  color: white;
   font-size: 20px;
-  display: flex;
   height: 45px;
-  width: 110px;
-  background-repeat: no-repeat;
-  background-position: right;
-  background-size: 30px 30px;
-  background-color: #878383;
-  border-radius: 10px;
-  border: none;
-  cursor: pointer;
-  align-items: center;
   justify-content: space-around;
+  width: 110px;
 }
 
 .buttom__2 img {
