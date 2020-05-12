@@ -192,51 +192,51 @@ html {
 }
 
 .buttom__2 img {
-  width: 30px;
   height: 30px;
+  width: 30px;
 }
 
 .searchBox {
-  width: 350px;
-  height: 56px;
-  border-radius: 10px;
-  border: none;
-  font-family: "Nunito", sans-serif;
-  font-weight: 700;
-  font-size: 20px;
-  color: grey;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgaGVpZ2h0PSIyNHB4IiB3aWR0aD0iMjRweCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIyMi4zMSIgeTE9IjIzLjYyIiB4Mj0iMy43MyIgeTI9IjMuMDUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNlOTM3MjIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmODZmMjUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48dGl0bGU+TWFnbmlmaWVyPC90aXRsZT48cGF0aCBmaWxsPSJ1cmwoI2xpbmVhci1ncmFkaWVudCkiIGQ9Ik0yMy4zMyAyMC4xbC00LjczLTQuNzRhMTAuMDYgMTAuMDYgMCAxIDAtMy4yMyAzLjIzbDQuNzQgNC43NGEyLjI5IDIuMjkgMCAxIDAgMy4yMi0zLjIzem0tMTcuNDgtNS44NGE1Ljk0IDUuOTQgMCAxIDEgOC40MiAwIDYgNiAwIDAgMS04LjQyIDB6Ii8+PC9zdmc+);
   background-position: left;
   background-repeat: no-repeat;
   background-size: 30px 20px;
+  border: none;
+  border-radius: 10px;
+  color: grey;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  height: 56px;
+  width: 350px;
 }
 
 .front__Title {
   background: white;
+  float: center;
   font-size: 40px;
   line-height: 40px;
-  float: center;
-  position: absolute;
   margin: 1% 40%;
+  position: absolute;
   width: 20rem;
 }
 
 .seriusly {
-  margin: 1% 10%;
-  float: right;
   background: #878383;
-  border-radius: 10px;
-  border: white 4px solid;
-  font-size: 20px;
-  padding: 10px;
   background-size: auto;
+  border: white 4px solid;
+  border-radius: 10px;
+  float: right;
+  font-size: 20px;
+  margin: 1% 10%;
+  padding: 10px;
 }
 
 .first__Latest {
+  background-color: #878383;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: 1fr auto auto;
-  background-color: #878383;
   margin-top: 2em;
 }
 
@@ -253,11 +253,11 @@ html {
 }
 
 .in__One {
-  display: inline-flex;
   align-items: center;
+  display: inline-flex;
+  justify-content: baseline;
   margin-left: 4rem;
   margin-top: 3em;
-  justify-content: baseline;
 }
 
 .in__Two {
