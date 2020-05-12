@@ -147,22 +147,22 @@ html {
 }
 
 .logo {
-  width: 193px;
   height: 70px;
   margin-top: 15%;
   margin-left: 5%;
+  width: 193px;
 }
 
 .buttom__1 {
-  font-family: "Nunito", sans-serif;
-  font-weight: 700;
-  font-size: 20px;
-  color: white;
-  height: 45px;
-  width: auto;
   background-color: #878383;
   border: none;
+  color: white;
   cursor: pointer;
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  height: 45px;
+  width: auto;
 }
 
 .buttom__1:hover {
