@@ -139,11 +139,11 @@ html {
 }
 
 .nav__Bar {
-  display: flex;
-  justify-content: space-around;
   align-items: center;
-  height: 102px;
   background: #878383;
+  display: flex;
+  height: 102px;
+  justify-content: space-around;
 }
 
 .logo {
