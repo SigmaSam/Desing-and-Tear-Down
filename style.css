@@ -128,7 +128,7 @@ table {
 }
 
 html {
-  background: #757575;
+  background: #7a7a7a;
   width: 100%;
   overflow-x: hidden;
 }
@@ -142,7 +142,7 @@ html {
 
 .nav__Bar {
   align-items: center;
-  background: #878383;
+  background: #858282;
   display: flex;
   height: 102px;
   justify-content: space-around;
@@ -156,7 +156,7 @@ html {
 }
 
 .buttom__1 {
-  background-color: #878383;
+  background-color: #8a8585;
   border: none;
   color: white;
   cursor: pointer;
@@ -168,7 +168,7 @@ html {
 }
 
 .buttom__1:hover {
-  background-color: #757575;
+  background-color: #727070;
   border: none;
   border-radius: 10px;
   cursor: pointer;
