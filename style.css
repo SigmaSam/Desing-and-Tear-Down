@@ -133,7 +133,6 @@ html {
   overflow-x: hidden;
 }
 
-
 .global__Grid {
   display: grid;
   grid-template-columns: auto;
