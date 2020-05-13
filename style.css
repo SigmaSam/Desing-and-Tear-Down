@@ -129,7 +129,10 @@ table {
 
 html {
   background: #757575;
+  width: 100%;
+  overflow-x: hidden;
 }
+
 
 .global__Grid {
   display: grid;
