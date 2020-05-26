@@ -8,9 +8,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- HTML,
-- CSS,
-- FONTAWESOME
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -22,25 +21,25 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Open a web browser
+- Open a web browser
 
-### Visit Repository
+- Visit Repository
 
-### Download Repository (https://biodunjohnson.github.io/youtube-frontpage/)
+- Download Repository (https://biodunjohnson.github.io/youtube-frontpage/)
 
-### Run index.html file (into folder html)
+- Run index.html file (into folder html)
 
 ## Authors
 
 
-?? **Juan Jacobo Hincapie Montes**
+**Juan Jacobo Hincapie Montes**
 
 - Gmail: [@gmail](jacobo12.montes@gmail.com)
 - Github: [@githubhandle](https://github.com/jacobo12montes)
 - Twitter: [@twitterhandle](https://twitter.com/HincapieMontes)
 - Linkedin: [linkedin](https://www.linkedin.com/in/juan-jacobo-hincapi%C3%A9-montes-93975210b/)
 
-## ?? Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!
 
@@ -48,7 +47,7 @@ Feel free to check the [issues page](https://github.com/SigmaSam/Desing-and-Tear
 
 ## Show your support
 
-Give a ?? if you like this project!
+Give a  if you like this project!
 
 ## Acknowledgments
 
@@ -56,7 +55,7 @@ Give a ?? if you like this project!
 - Inspiration
 - etc
 
-## ?? License
+## License
 
 This project is [MIT](lic.url) licensed.
 
