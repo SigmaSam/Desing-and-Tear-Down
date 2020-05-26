@@ -1,4 +1,4 @@
-# Desing and Tear Down/Samuel&Juan
+# Desing and Tear Down
  This project consists of building a heatmap of the Smashing magazine website.
 
 > We created a the skeleton of the smashing_magazine
